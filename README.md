@@ -3,7 +3,7 @@ Welcome to my Github!
 </h1>
 
 <p align="center">
-  Hi I am Lucas, a future Full Stack Developer
+  Hi I am Lucas, currently a "Cannon Bucha" at ÇuÇ Softs, I aspire to be a Full Stack Developer.
 </p>
 
  ##
