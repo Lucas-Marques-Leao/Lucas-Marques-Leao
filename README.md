@@ -28,7 +28,7 @@ Welcome to my Github!
 ##
 
  <p align="left">
- Languages 
+ Skills 
  </p>
 <div>
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
