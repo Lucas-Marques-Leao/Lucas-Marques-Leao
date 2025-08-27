@@ -3,7 +3,7 @@ Welcome to my Github!
 </h1>
 
 <p align="center">
-  Hi I am Lucas, I aspire to be a Full Stack Developer.
+  Hi I am Lucas, I am a Full Stack Developer.
 </p>
 
  ##
